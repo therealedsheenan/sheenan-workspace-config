@@ -1,0 +1,8 @@
+windows:
+  - name: zensapp
+    root: ~/Workspace/zens/zensapp
+    layout: main-vertical
+    panes:
+      - fish
+      - bundle exec rails server
+      - rails c

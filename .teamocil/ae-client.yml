@@ -1,0 +1,7 @@
+windows:
+  - name: ae-client
+    root: ~/Workspace/anytime-english/anytime-english-nuxt
+    layout: even-horizontal
+    panes:
+      - fish
+      - npm run dev

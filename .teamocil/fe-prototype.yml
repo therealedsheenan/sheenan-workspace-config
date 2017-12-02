@@ -1,0 +1,7 @@
+windows:
+  - name: fe-prototype
+    root: ~/Workspace/fe-prototype
+    layout: even-horizontal
+    panes:
+      - git status
+      - npm run client:dev

@@ -1,0 +1,8 @@
+windows:
+  - name: ae-server
+    root: ~/Workspace/anytime-english/server
+    layout: main-vertical
+    panes:
+      - fish
+      - npm run dev
+      - sudo mongod

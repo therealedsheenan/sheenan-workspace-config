@@ -1,0 +1,7 @@
+windows:
+  - name: normal
+    root: ~/Workspace/
+    layout: even-horizontal
+    panes:
+      - fis
+      - fish

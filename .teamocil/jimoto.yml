@@ -1,0 +1,10 @@
+windows:
+  - name: jimotop
+    root: ~/Workspace/Jimoto/frontend
+    layout: main-vertical
+    panes:
+      - fish
+      - commands:
+        - cd ../jimoto-api
+        - docker-compose up
+      - npm run dev

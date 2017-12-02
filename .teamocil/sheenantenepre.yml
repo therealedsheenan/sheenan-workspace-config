@@ -1,0 +1,7 @@
+windows:
+  - name: sheenan
+    root: ~/Workspace/sheenantenepre
+    layout: even-horizontal
+    panes:
+      - fish
+      - jekyll serve
